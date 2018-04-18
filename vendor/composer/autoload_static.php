@@ -44,6 +44,10 @@ class ComposerStaticInita73a176643b34086752c294ce1ee0b9e
         array (
             'Interop\\Container\\' => 18,
         ),
+        'B' => 
+        array (
+            'Bik\\' => 4,
+        ),
         'A' => 
         array (
             'Application\\' => 12,
@@ -148,6 +152,10 @@ class ComposerStaticInita73a176643b34086752c294ce1ee0b9e
         'Interop\\Container\\' => 
         array (
             0 => __DIR__ . '/..' . '/container-interop/container-interop/src/Interop/Container',
+        ),
+        'Bik\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/module/Bik/src',
         ),
         'Application\\' => 
         array (
